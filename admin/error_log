@@ -1,0 +1,16 @@
+[15-Aug-2020 03:50:10 UTC] PHP Notice:  Undefined index: status1 in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 3
+[15-Aug-2020 03:50:10 UTC] PHP Notice:  Undefined index: gambar in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 71
+[15-Aug-2020 03:50:10 UTC] PHP Notice:  Undefined index: username in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 71
+[15-Aug-2020 03:50:10 UTC] PHP Notice:  Undefined index: gambar in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 75
+[15-Aug-2020 03:50:10 UTC] PHP Notice:  Undefined index: fullname in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 77
+[15-Aug-2020 03:50:10 UTC] PHP Notice:  Undefined index: email in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 78
+[15-Aug-2020 03:50:10 UTC] PHP Notice:  Undefined index: status in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 104
+[15-Aug-2020 03:50:10 UTC] PHP Notice:  Undefined index: status in /home/yazuhaco/gi.yazuha.com/admin/tambah_siswa.php on line 6
+[02-Jun-2021 03:17:13 UTC] PHP Notice:  Undefined index: status1 in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 3
+[02-Jun-2021 03:17:13 UTC] PHP Notice:  Undefined index: gambar in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 71
+[02-Jun-2021 03:17:13 UTC] PHP Notice:  Undefined index: username in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 71
+[02-Jun-2021 03:17:13 UTC] PHP Notice:  Undefined index: gambar in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 75
+[02-Jun-2021 03:17:13 UTC] PHP Notice:  Undefined index: fullname in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 77
+[02-Jun-2021 03:17:13 UTC] PHP Notice:  Undefined index: email in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 78
+[02-Jun-2021 03:17:13 UTC] PHP Notice:  Undefined index: status in /home/yazuhaco/gi.yazuha.com/admin/header.php on line 104
+[02-Jun-2021 03:17:13 UTC] PHP Notice:  Undefined index: status in /home/yazuhaco/gi.yazuha.com/admin/tambah_siswa.php on line 6
